@@ -1,0 +1,23 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "A rest api using node.js, expess and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLynette/restful-api.git"
+  },
+  "author": "Lynette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLynette/restful-api/issues"
+  },
+  "homepage": "https://github.com/iLynette/restful-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
